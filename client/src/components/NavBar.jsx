@@ -7,8 +7,8 @@ const NavBar = () => {
     return (
         <>
          <LogoFrontend />
-        <div>
-            <div>
+        <div >
+            <div >
                 <Link to="/">Home</Link>
             </div>
             <div>

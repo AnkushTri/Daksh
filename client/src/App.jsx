@@ -5,6 +5,7 @@ import Services from "./pages/Services"
 import ErrorPage from "./pages/ErrorPage"
 import NavBar from "./components/NavBar"
 
+
 const App =()=> {
  
   return (
